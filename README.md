@@ -79,6 +79,14 @@ plt.show()
 ## Display the result of Opening
 ![model](11.2.png)
 
+
+
+
+
+
+
+
+
 ## Display the result of Closing
 ![model](11.3.png)
 
